@@ -1,0 +1,9 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Optional but recommended for development
+# pytest>=7.0.0  # For testing
+# black>=22.0.0  # For code formatting
+# mypy>=0.950    # For type checking
+# flake8>=4.0.0  # For linting
